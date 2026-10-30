@@ -1,0 +1,16 @@
+# Source extracts and prepared datasets (add only if licensed/size appropriate)
+*.csv
+*.xlsx
+*.parquet
+*.db
+*.sqlite
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
